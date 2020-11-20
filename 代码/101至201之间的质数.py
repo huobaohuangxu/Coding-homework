@@ -7,5 +7,5 @@ for m in range(101,201,2):
         if i == k+1:
             if n % 10 == 0:
                 print()
-                print('%d'% m,end=' ')
+            print('%d'% m,end=' ')
                 n+=1
